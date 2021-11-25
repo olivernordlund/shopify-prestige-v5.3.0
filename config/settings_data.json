@@ -60,7 +60,7 @@
         "settings": {
           "primary_menu": "",
           "secondary_menu": "",
-          "show_social_media": true
+          "show_social_media": false
         }
       },
       "announcement": {
