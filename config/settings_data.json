@@ -27,7 +27,10 @@
     "text_font": "nunito_sans_n4",
     "base_text_font_size": 14,
     "color_swatch_config": "Ascot Grey:#B8B8B8\nAzure: #468689\nApple:#82bd75\nBlack:#000000\nBlush Pink:#FFD7D7\nBurgundy:#5E2933\nCamel:#F4D599\nCardinal Red:#B10000\nChampagne:#EBD9BA\nCharcoal:#383838\nChocolate:#3E1D10\nCognac:#691F01\nDark Brown:#2E170B\nDark Grey:#343536\nDark Navy:#090926\nDove Grey:#BCBCC5\nElephant Grey:#8B8990\nForest:#153615\nFuchsia:#FF005C\nIvory:#FEFFF7\nLight Yellow:#E4E2A6\nLight Pink:#f2c2c5\nMidnight Blue:#0F0E3E\nNavy:#12122F\nOyster:#F6F3EF\nPalomino:#EAEAEA\nParchment:#EEEDE2\nPine:#116560\nPink:#E4437D\nPlum:#632F61\nPowder Blue:#D7DCE7\nPowder White:#FFFFFF\nRaspberry Rose:#DE4790\nRed:#A51B1B\nRose:#EC7F7F\nSilver Mist:#DBDAE2\nSmoke:#C4C4C4\nSmokey Rose:#EFC6BE\nSoft Rose:#FFD7D7\nTaupe:#E1DDD2\nViolet:#591E57\nWhite:#FFFFFF\nWinter White:#FFFFFF\nWhite \/ Black:white-black.png\nBlack \/ White:black-white.png\nAnimal Print: animal-print-1.png\nPearl:#F6F3EF\nOptic White:#f5f5f0\nClaret:#571830\nJade:#15594f\nMagenta:#6e1b3f\nViolet:#6b227d",
-    "show_page_transition": true,
+    "show_page_transition": false,
+    "show_button_transition": false,
+    "show_image_zooming": false,
+    "show_element_staggering": false,
     "search_mode": "product,article",
     "product_show_price_on_hover": false,
     "product_show_secondary_image": true,
@@ -55,8 +58,8 @@
       "sidebar-menu": {
         "type": "sidebar-menu",
         "settings": {
-          "primary_menu": "freddie",
-          "secondary_menu": "secondary-mobile-nav",
+          "primary_menu": "",
+          "secondary_menu": "",
           "show_social_media": true
         }
       },
@@ -78,11 +81,9 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "Everyday",
-              "push_1_image": "shopify:\/\/shop_images\/Thumnail_680x_1_copy.png",
               "push_1_heading": "The Glovemaker's Art",
               "push_1_subheading": "How we do it",
               "push_1_url": "shopify:\/\/pages\/the-glovemakers-art",
-              "push_2_image": "shopify:\/\/shop_images\/Cornelia_James_0252.jpg",
               "push_2_heading": "Our story",
               "push_2_subheading": "",
               "push_2_url": "shopify:\/\/blogs\/information\/story"
@@ -92,7 +93,6 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "Occasions",
-              "push_1_image": "shopify:\/\/shop_images\/Cornelia_James_2500_1.jpg",
               "push_1_heading": "How to choose your",
               "push_1_subheading": "Wedding gloves",
               "push_1_url": "shopify:\/\/blogs\/journal\/how-to-choose-your-wedding-gloves",
@@ -121,7 +121,6 @@
         ],
         "settings": {
           "use_sticky_header": false,
-          "logo": "shopify:\/\/shop_images\/Montserrat_1.png",
           "logo_max_width": 280,
           "mobile_logo_max_width": 190,
           "show_currency_selector": true,
@@ -132,8 +131,7 @@
           "enable_transparent_header": true,
           "enable_transparent_header_collection": false,
           "show_transparent_header_border": true,
-          "transparent_text_color": "#ffffff",
-          "transparent_logo": "shopify:\/\/shop_images\/Montserrat_1_3cc91ca5-7b64-48c8-94bc-b32345e35219.png"
+          "transparent_text_color": "#ffffff"
         }
       },
       "footer": {
