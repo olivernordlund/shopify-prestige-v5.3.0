@@ -145,7 +145,7 @@
             "settings": {
               "title": "About us",
               "content": "<p>Glovemakers since 1946 and by Royal Appointment since 1978. Glovemakers of choice to the world of fashion, gloves of timeless style and of the moment, for every occasion, for every mood. Our gloves are designed and made by us at our atelier in East Sussex - British manufacturing at its best - and we ship to every country in the World within the week. One of fashion's best kept secrets - don't say a word...<\/p>",
-              "show_social_media": true
+              "show_social_media": false
             }
           },
           "footer-1": {
@@ -178,9 +178,9 @@
           "3c3ac289-9c92-4ace-8cc0-ec5f0eefdea5"
         ],
         "settings": {
-          "show_payment_methods": true,
-          "show_currency_selector": true,
-          "show_locale_selector": true
+          "show_payment_methods": false,
+          "show_currency_selector": false,
+          "show_locale_selector": false
         }
       },
       "popup": {
