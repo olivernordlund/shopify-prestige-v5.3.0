@@ -1141,7 +1141,6 @@ body {
 }
 
 .features--heading-uppercase .Heading {
-  letter-spacing: 0.2em;
   text-transform: uppercase;
 }
 
@@ -1459,7 +1458,6 @@ input.spr-button-primary,
   text-transform: uppercase;
   font-size: calc(var(--base-text-font-size) - (var(--default-text-font-size) - 12px));
   text-align: center;
-  letter-spacing: 0.2em;
   font-family: var(--heading-font-family);
   font-weight: var(--heading-font-weight);
   font-style: var(--heading-font-style);
@@ -2705,7 +2703,6 @@ body:not(.is-tabbing) .flickity-enabled:focus {
   font-family: var(--heading-font-family);
   font-weight: var(--heading-font-weight);
   font-style: var(--heading-font-style);
-  letter-spacing: 0.2em;
   line-height: normal;
 }
 
@@ -2870,7 +2867,6 @@ select::-ms-expand {
 }
 
 .features--heading-uppercase .Select--transparent select {
-  letter-spacing: 0.2em;
 }
 
 .Select--transparent svg {
@@ -2898,7 +2894,6 @@ select::-ms-expand {
 }
 
 .features--heading-uppercase .SelectButton {
-  letter-spacing: 0.2em;
 }
 
 .SelectButton svg {
@@ -4412,7 +4407,6 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
   text-transform: uppercase;
   font-size: calc(var(--base-text-font-size) - (var(--default-text-font-size) - 12px));
   text-align: center;
-  letter-spacing: 0.2em;
   font-family: var(--heading-font-family);
   font-weight: var(--heading-font-weight);
   font-style: var(--heading-font-style);
@@ -5479,7 +5473,6 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
 .features--heading-uppercase .Rte h4,
 .features--heading-uppercase .Rte h5,
 .features--heading-uppercase .Rte h6 {
-  letter-spacing: 0.2em;
   text-transform: uppercase;
 }
 .Rte h1 {
