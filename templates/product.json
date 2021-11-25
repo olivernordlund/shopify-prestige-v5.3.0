@@ -67,42 +67,9 @@
         "enable_image_zoom": true,
         "enable_video_looping": false
       }
-    },
-    "163118415894f626a8": {
-      "type": "article-features",
-      "settings": {
-      }
-    },
-    "16311842196785c46c": {
-      "type": "stamped-main-widget",
-      "settings": {
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false
-      }
-    },
-    "recently-viewed-products": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "title": "Recently viewed",
-        "show_product_info": true,
-        "show_vendor": false,
-        "show_color_swatch": false
-      }
     }
   },
   "order": [
-    "main",
-    "163118415894f626a8",
-    "16311842196785c46c",
-    "product-recommendations",
-    "recently-viewed-products"
+    "main"
   ]
 }
