@@ -29,7 +29,7 @@
         "1638135748e9334a15-0": {
           "type": "collection",
           "settings": {
-            "collection": "all",
+            "collection": "catalog",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Sub-heading",
