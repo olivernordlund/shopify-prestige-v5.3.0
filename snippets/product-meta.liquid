@@ -20,7 +20,9 @@
     {%- endif -%}
   </h1>
   
-  <div class="ProductMeta__Color"><p>Color:</p>{{ product.variants.first.option2}}</div>
+  <div class="ProductMeta__Color">
+    <p>Color: {{ product.variants.first.option2}}</p>
+  </div>
 
   {%- if block.settings.show_product_rating -%}
     <div class="ProductMeta__Rating Heading Text--subdued u-h7">
