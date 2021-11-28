@@ -12,6 +12,11 @@
             "show_taxes_included": false
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
@@ -46,21 +51,16 @@
           "disabled": true,
           "settings": {
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "product_meta",
+        "description",
         "variant_selector",
         "quantity_selector",
         "buy_buttons",
         "ee8af388-c6b3-4f3a-9a4a-e044944189ae",
-        "share_buttons",
-        "description"
+        "share_buttons"
       ],
       "settings": {
         "image_size": "medium",
