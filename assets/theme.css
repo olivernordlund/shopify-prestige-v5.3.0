@@ -7334,7 +7334,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
     margin-left: calc(-1 * var(--horizontal-spacing-two-products-per-row));
   }
 
-  .ProductList--grid[data-desktop-count="2"] > .Grid__Cell {
+  .ProductList--grid[data-desktop-count="1"] > .Grid__Cell {
     padding-left: var(--horizontal-spacing-two-products-per-row);
     margin-bottom: var(--vertical-spacing-two-products-per-row);
   }
