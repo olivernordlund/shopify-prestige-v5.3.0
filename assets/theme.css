@@ -7330,7 +7330,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
     padding: 0 50px;
   }
 
-  .ProductList--grid[data-desktop-count="2"] {
+  .ProductList--grid[data-desktop-count="1"] {
     margin-left: calc(-1 * var(--horizontal-spacing-two-products-per-row));
   }
 
