@@ -63,10 +63,10 @@
         "description"
       ],
       "settings": {
-        "image_size": "large",
+        "image_size": "medium",
         "stack_images": false,
-        "show_thumbnails": true,
-        "enable_image_zoom": true,
+        "show_thumbnails": false,
+        "enable_image_zoom": false,
         "enable_video_looping": false
       }
     }
