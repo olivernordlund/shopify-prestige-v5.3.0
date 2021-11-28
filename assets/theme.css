@@ -7339,7 +7339,7 @@ body:not(.features--show-image-zooming) .Image--lazyLoaded.Image--zoomOut {
     margin-bottom: var(--vertical-spacing-two-products-per-row);
   }
 
-  .ProductList--removeMargin[data-desktop-count="2"] {
+  .ProductList--removeMargin[data-desktop-count="1"] {
     margin-bottom: calc(-1 * var(--vertical-spacing-two-products-per-row)) !important;
   }
 
