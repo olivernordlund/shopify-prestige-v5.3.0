@@ -12,13 +12,14 @@
     </h2>
   {%- endif -%}
 
-  <h1 class="ProductMeta__Title Heading u-h2">
+  <p class="ProductMeta__Title Heading u-h2">
+    Name:
     {%- if template.name == 'product' -%}
       {{- product.title -}}
     {%- else -%}
       <a href="{{ product.url }}">{{ product.title }}</a>
     {%- endif -%}
-  </h1>
+  </p>
   
   <div class="ProductMeta__Color">
     <p>Color: {{ product.variants.first.option2}}</p>
