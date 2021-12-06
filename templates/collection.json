@@ -22,67 +22,9 @@
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4
       }
-    },
-    "1638135748afb80903": {
-      "type": "collection-list",
-      "blocks": {
-        "1638135748e9334a15-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "all",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
-        "1638135748e9334a15-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "catalog",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        },
-        "1638135748e9334a15-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_alignment": "center center",
-            "content_position": "bottomLeft",
-            "subheading": "Sub-heading",
-            "title": "Collection name",
-            "button_text": "View products",
-            "button_link": "",
-            "apply_overlay": true
-          }
-        }
-      },
-      "block_order": [
-        "1638135748e9334a15-0",
-        "1638135748e9334a15-1",
-        "1638135748e9334a15-2"
-      ],
-      "settings": {
-        "image_size": "normal",
-        "add_spacing": true,
-        "expand_collection": false,
-        "stack_on_mobile": true,
-        "text_color": "#ffffff",
-        "button_color": "#363636"
-      }
     }
   },
   "order": [
-    "main",
-    "1638135748afb80903"
+    "main"
   ]
 }
