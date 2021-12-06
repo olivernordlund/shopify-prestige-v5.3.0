@@ -93,10 +93,52 @@
         "show_headings_on_mobile": false,
         "product": "low-cut-canvas-sneaker"
       }
+    },
+    "16388244650e626867": {
+      "type": "featured-product",
+      "blocks": {
+        "16388244658b6eb91f-0": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
+          }
+        },
+        "16388244658b6eb91f-1": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "16388244658b6eb91f-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "16388244658b6eb91f-0",
+        "16388244658b6eb91f-1",
+        "16388244658b6eb91f-2"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_headings_on_mobile": false,
+        "product": "low-cut-leather-sneaker"
+      }
     }
   },
   "order": [
     "1638824187760411ca",
-    "16388243934532359a"
+    "16388243934532359a",
+    "16388244650e626867"
   ]
 }
