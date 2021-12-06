@@ -1,17 +1,5 @@
 {
   "sections": {
-    "163119180946bed970": {
-      "type": "text-with-image",
-      "disabled": true,
-      "settings": {
-        "subheading": "Est. 1946",
-        "title": "Our story",
-        "image_position": "left",
-        "content": "<p>We are glove makers. That is really all we do. But we try to do it really well and we have been doing it for a long time. We do it because we think that gloves are important and because a good pair of gloves is a thing of joy. You may be surprised to learn that there are 2.5 meters (that’s 8 foot) of stitching in a pair of gloves and at Cornelia James we have spent over 70 years trying to make each stitch perfect. And we've got a Royal Warrant - glovemakers by appointment to Her Majesty the Queen.<\/p>",
-        "link_text": "",
-        "link_url": ""
-      }
-    },
     "1638824187760411ca": {
       "type": "featured-product",
       "blocks": {
@@ -61,7 +49,6 @@
     }
   },
   "order": [
-    "163119180946bed970",
     "1638824187760411ca"
   ]
 }
