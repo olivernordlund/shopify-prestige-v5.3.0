@@ -46,9 +46,57 @@
         "show_headings_on_mobile": true,
         "product": "high-top-canvas-sneaker"
       }
+    },
+    "16388243934532359a": {
+      "type": "featured-product",
+      "blocks": {
+        "1638824393fc26154b-0": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
+          }
+        },
+        "1638824393fc26154b-1": {
+          "type": "share_buttons",
+          "settings": {
+          }
+        },
+        "1638824393fc26154b-2": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "1638824393fc26154b-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "1638824393fc26154b-0",
+        "1638824393fc26154b-1",
+        "1638824393fc26154b-2",
+        "1638824393fc26154b-3"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_headings_on_mobile": false,
+        "product": "low-cut-canvas-sneaker"
+      }
     }
   },
   "order": [
-    "1638824187760411ca"
+    "1638824187760411ca",
+    "16388243934532359a"
   ]
 }
