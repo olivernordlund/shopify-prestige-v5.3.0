@@ -11,9 +11,57 @@
         "link_text": "",
         "link_url": ""
       }
+    },
+    "1638824187760411ca": {
+      "type": "featured-product",
+      "blocks": {
+        "1638824187b7aabafe-0": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
+          }
+        },
+        "1638824187b7aabafe-1": {
+          "type": "share_buttons",
+          "settings": {
+          }
+        },
+        "1638824187b7aabafe-2": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "1638824187b7aabafe-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "1638824187b7aabafe-0",
+        "1638824187b7aabafe-1",
+        "1638824187b7aabafe-2",
+        "1638824187b7aabafe-3"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_headings_on_mobile": true,
+        "product": "high-top-canvas-sneaker"
+      }
     }
   },
   "order": [
-    "163119180946bed970"
+    "163119180946bed970",
+    "1638824187760411ca"
   ]
 }
