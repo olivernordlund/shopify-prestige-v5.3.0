@@ -1,144 +1,19 @@
 {
   "sections": {
-    "1638824187760411ca": {
-      "type": "featured-product",
-      "blocks": {
-        "1638824187b7aabafe-0": {
-          "type": "product_meta",
-          "settings": {
-            "show_vendor": true,
-            "show_sku": false,
-            "show_product_rating": false,
-            "show_taxes_included": false
-          }
-        },
-        "2f00d1b1-00c4-4e08-b831-ca0e1d9e013e": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "1638824187b7aabafe-2": {
-          "type": "variant_selector",
-          "settings": {
-            "selector_mode": "dropdown",
-            "show_color_swatch": false,
-            "show_color_carousel": false,
-            "size_chart": ""
-          }
-        },
-        "1638824187b7aabafe-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        }
-      },
-      "block_order": [
-        "1638824187b7aabafe-0",
-        "2f00d1b1-00c4-4e08-b831-ca0e1d9e013e",
-        "1638824187b7aabafe-2",
-        "1638824187b7aabafe-3"
-      ],
+    "163119180946bed970": {
+      "type": "text-with-image",
+      "disabled": true,
       "settings": {
-        "subheading": "",
-        "title": "",
-        "show_headings_on_mobile": true,
-        "product": "high-top-canvas-sneaker"
-      }
-    },
-    "16388243934532359a": {
-      "type": "featured-product",
-      "blocks": {
-        "1638824393fc26154b-0": {
-          "type": "product_meta",
-          "settings": {
-            "show_vendor": true,
-            "show_sku": false,
-            "show_product_rating": false,
-            "show_taxes_included": false
-          }
-        },
-        "1638824393fc26154b-1": {
-          "type": "share_buttons",
-          "settings": {
-          }
-        },
-        "1638824393fc26154b-2": {
-          "type": "variant_selector",
-          "settings": {
-            "selector_mode": "dropdown",
-            "show_color_swatch": false,
-            "show_color_carousel": false,
-            "size_chart": ""
-          }
-        },
-        "1638824393fc26154b-3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        }
-      },
-      "block_order": [
-        "1638824393fc26154b-0",
-        "1638824393fc26154b-1",
-        "1638824393fc26154b-2",
-        "1638824393fc26154b-3"
-      ],
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "show_headings_on_mobile": false,
-        "product": "low-cut-canvas-sneaker"
-      }
-    },
-    "16388244650e626867": {
-      "type": "featured-product",
-      "blocks": {
-        "16388244658b6eb91f-0": {
-          "type": "product_meta",
-          "settings": {
-            "show_vendor": true,
-            "show_sku": false,
-            "show_product_rating": false,
-            "show_taxes_included": false
-          }
-        },
-        "16388244658b6eb91f-1": {
-          "type": "variant_selector",
-          "settings": {
-            "selector_mode": "dropdown",
-            "show_color_swatch": false,
-            "show_color_carousel": false,
-            "size_chart": ""
-          }
-        },
-        "16388244658b6eb91f-2": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        }
-      },
-      "block_order": [
-        "16388244658b6eb91f-0",
-        "16388244658b6eb91f-1",
-        "16388244658b6eb91f-2"
-      ],
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "show_headings_on_mobile": false,
-        "product": "low-cut-leather-sneaker"
+        "subheading": "Est. 1946",
+        "title": "Our story",
+        "image_position": "left",
+        "content": "<p>We are glove makers. That is really all we do. But we try to do it really well and we have been doing it for a long time. We do it because we think that gloves are important and because a good pair of gloves is a thing of joy. You may be surprised to learn that there are 2.5 meters (that’s 8 foot) of stitching in a pair of gloves and at Cornelia James we have spent over 70 years trying to make each stitch perfect. And we've got a Royal Warrant - glovemakers by appointment to Her Majesty the Queen.<\/p>",
+        "link_text": "",
+        "link_url": ""
       }
     }
   },
   "order": [
-    "1638824187760411ca",
-    "16388243934532359a",
-    "16388244650e626867"
+    "163119180946bed970"
   ]
 }
