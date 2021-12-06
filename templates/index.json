@@ -12,8 +12,8 @@
             "show_taxes_included": false
           }
         },
-        "1638824187b7aabafe-1": {
-          "type": "share_buttons",
+        "2f00d1b1-00c4-4e08-b831-ca0e1d9e013e": {
+          "type": "description",
           "settings": {
           }
         },
@@ -36,7 +36,7 @@
       },
       "block_order": [
         "1638824187b7aabafe-0",
-        "1638824187b7aabafe-1",
+        "2f00d1b1-00c4-4e08-b831-ca0e1d9e013e",
         "1638824187b7aabafe-2",
         "1638824187b7aabafe-3"
       ],
