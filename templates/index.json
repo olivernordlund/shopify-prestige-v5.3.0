@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "settings": {
         "unroll_variants": false,
         "show_collection_info": false,
@@ -42,6 +43,16 @@
           "type": "collection",
           "settings": {
             "collection": "catalog",
+            "title": "asdad",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        },
+        "1af3e59e-daf1-4a28-88f7-d326de8255b4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
             "title": "",
             "grid_items_count": 8,
             "button_text": "View all products"
@@ -49,7 +60,8 @@
         }
       },
       "block_order": [
-        "1638827193c3742046-0"
+        "1638827193c3742046-0",
+        "1af3e59e-daf1-4a28-88f7-d326de8255b4"
       ],
       "settings": {
         "unroll_variants": false,
